@@ -2,3 +2,5 @@ apples
 berries
 cherries
 bananas
+pomegranate
+
